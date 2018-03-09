@@ -1,9 +1,10 @@
 # game-icons
 
-I want to get ".csh" file from http://game-icons.net/ so I could use all shapes in photoshop. 
-
 [Download .csh file from 8. March 2018](https://github.com/EntityB/game-icons/raw/master/port/game-icons-3209.csh)
-So I did following:
+
+I wanted to get ".csh" file from http://game-icons.net/ so I could use all shapes in photoshop. 
+
+I did following:
 
 1. I downloaded SVG format with transparent background and black foreground. 
 2. I moved all icons to one folder for easier manipulation, with command
